@@ -1,6 +1,8 @@
+# If import requests is not working try another IDE
+
 import requests
 import csv
-from datetime import datetime, timedelta
+from datetime import datetime
 
 # Api key for etherscan
 api_key = '    '
