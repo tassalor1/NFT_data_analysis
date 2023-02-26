@@ -1,4 +1,4 @@
-# If import requests is not working try another IDE!
+# If import requests is not working try another IDE
 
 import requests
 import csv
