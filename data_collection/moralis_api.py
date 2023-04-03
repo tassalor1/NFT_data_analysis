@@ -1,7 +1,7 @@
 from moralis import evm_api
 import time
 
-api_key = "RaIYwygywhhv3PyS2BXs8ty85CYWY2Qys3XBFDPhdrqE8tdO1yD5CojR1Z7RYuNU"
+api_key = ""
 
 start_block = 16308190  # First block of 2023
 
